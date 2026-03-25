@@ -1,2 +1,1 @@
-# RTA_HP
-Repository for real time data analysis classes
+# Real-Time Analytics - Course Repository
